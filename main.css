@@ -1,0 +1,41 @@
+/* ------------- =General -------------- */
+
+html {
+  font-family: Arial,sans-serf;
+}
+
+/* ------------- =Masthead -------------- */
+
+header {
+  /* Box model */
+  margin: 0 0 1rem;
+  padding: 0.5em;
+
+  /* Visual decorations */
+  background-color: darkgreen;
+  border: 1px solid green;
+
+  /* Typography */
+  color: red;
+  font-family: sans-serif;
+}
+
+  .nav {
+    margin: 0;
+  }
+
+  .nav a {
+    color: blue;
+  }
+
+/* ------------- =Typography -------------- */
+
+a,
+a:link,
+a:visited {
+  color: orange;
+}
+
+h1 {
+  font-size: 2rem;
+}
